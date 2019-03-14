@@ -1,0 +1,6 @@
+﻿  Test.cpp
+  main.cpp
+  Generating Code...
+c:\users\tothi\source\repos\proiectsda\proiectsda\set.h(136): warning C4715: 'Iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getCurrent': not all control paths return a value
+c:\users\tothi\source\repos\proiectsda\proiectsda\set.h(136): warning C4715: 'Iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getCurrent': not all control paths return a value
+  ProiectSDA.vcxproj -> C:\Users\tothi\source\repos\ProiectSDA\Debug\ProiectSDA.exe
